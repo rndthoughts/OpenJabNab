@@ -11,7 +11,7 @@ AllowAnonymousRegistration=false
 AllowUserManageBunny=false
 AllowUserManageZtamp=false
 SessionTimeout=300
-TTS=acapela
+TTS=responsivevoice
 MaxNumberOfBunnies=64
 MaxBurstNumberOfBunnies=72
 
